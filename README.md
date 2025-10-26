@@ -13,10 +13,19 @@ A curated index of backup-related repositories for various applications and serv
 - [Application-Specific Backups](#application-specific-backups)
 - [Cloud & General Backups](#cloud--general-backups)
 - [GitHub Backups](#github-backups)
+- [Archived/Old Projects](#archivedold-projects)
 
 ---
 
 ## Application-Specific Backups
+
+### Back Up Your SaaS
+
+**Created:** October 26, 2025
+
+Tool for backing up SaaS applications
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Back-Up-Your-SaaS)
 
 ### Better Hashnode Backups
 
@@ -41,6 +50,14 @@ GUI for creating backups of Homebox (with Postgres)
 Simple backup GUI for my Obsidian vault for storing LLM artifacts (prompts, outputs, agent configs)
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/LLM-Obsidian-Vault-Backup-Utility)
+
+### Medium Post Downloader
+
+**Created:** October 26, 2025
+
+Tool for downloading and backing up Medium posts
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Medium-Post-Downloader)
 
 ### Open WebUI Backups
 
@@ -73,3 +90,23 @@ Various scripts for manually syncing and backing up cloud storage
 Backup script for backing up Github Gists
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Github-Gists-Backup-Public)
+
+---
+
+## Archived/Old Projects
+
+### Cloud Backup Approaches
+
+**Created:** October 26, 2025
+
+Documentation and approaches for cloud backup strategies
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/CloudBackupApproaches)
+
+### Master Backup Strategy
+
+**Created:** October 26, 2025
+
+Master documentation for backup strategy planning
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Master_Backup_Strategy)
